@@ -1,0 +1,71 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.student {
+    height: 200px;
+    width: 250px;
+    background-image: url("../images/student.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+.teacher {
+    height: 200px;
+    width: 250px;
+    background-image: url("../images/teacher.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+.admin {
+    height: 200px;
+    width: 250px;
+    background-image: url("../images/admin.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+.officer {
+    height: 200px;
+    width: 250px;
+    background-image: url("../images/officer.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+.contain {
+    background-size: contain;
+}
+
+.admin2 {
+    background-image: url("../images/admin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.officer2 {
+    background-image: url("../images/officer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.student2 {
+    background-image: url("../images/student.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.teacher2 {
+    background-image: url("../images/teacher.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
